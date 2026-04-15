@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('Everyone')
     print_hi('No one')
+    print_hi('Frontend for Windows')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
